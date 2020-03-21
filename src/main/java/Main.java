@@ -9,10 +9,7 @@ public class Main {
         TestThread testThread = new TestThread();
 
         testThread.start();
-
-        TestRunnable testRunnable = new TestRunnable();
-
-        testRunnable.run();
+        ksjfksdjf
     }
 
     static class  TestThread extends Thread {
